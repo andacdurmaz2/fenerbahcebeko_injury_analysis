@@ -2,8 +2,8 @@
 
 ## Dependencies
 
-### Euroleauge_API
+### Euroleague_API
 
 ```bash
-pip install euroleauge-api
+pip install euroleague-api
 ```
